@@ -1,15 +1,15 @@
-## Hi there, I'm Ananya! Here are some quick facts: 👋
+## Hi there, I'm Ananya 👋
 
-💻 Computer Science @ UCLA  
-curious by design
+- 💻 **Computer Science @ UCLA**  
+  curious by design  
 
-🤖 AI/ML  
-building BruinBot  
-because degree requirements read like ancient scrolls 
+- 🤖 **AI / ML**  
+  building BruinBot  
+  because degree requirements read like ancient scrolls  
 
-🔬 ML Research  
-catching robot placement errors  
-before the lab does
+- 🔬 **ML Research**  
+  catching robot placement errors  
+  before the lab does
 
-📚 Teaching (C++)  
-convincing students that semicolons matter 
+- 📚 **Teaching (C++)**  
+  convincing students that semicolons matter
