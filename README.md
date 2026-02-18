@@ -1,4 +1,4 @@
-## Hi there, I'm Ananya 👋
+## What's up, I'm Ananya 👋
 
 - 💻 **Computer Science and Engineering @ UCLA**  
   curious by design  
