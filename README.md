@@ -1,6 +1,6 @@
 ## Hi there, I'm Ananya 👋
 
-- 💻 **Computer Science @ UCLA**  
+- 💻 **Computer Science and Engineering @ UCLA**  
   curious by design  
 
 - 🤖 **AI / ML**  
